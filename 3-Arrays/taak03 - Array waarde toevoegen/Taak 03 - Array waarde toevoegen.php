@@ -1,7 +1,7 @@
 <?php
 
 $myHeroes = ["captain america"];
-$myHeroes[0] = "spiderman";
+$myHeroes[1] = "spiderman";
 array_push($myHeroes,"thor");
 print_r($myHeroes);
 
